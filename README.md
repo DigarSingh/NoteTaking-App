@@ -12,7 +12,7 @@ A lightweight, responsive notes app for quickly capturing ideas, work items, and
 - Empty state guidance when there are no notes
 - Clean, responsive UI built with vanilla HTML/CSS/JS
 - Icons via Font Awesome CDN
-- Made with ❤ by Digar (footer)
+- footer
 
 ## Project Structure
 
