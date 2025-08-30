@@ -1,4 +1,4 @@
-# Elegant Notes (Notes App)
+# Notes (Notes App)
 
 A lightweight, responsive notes app for quickly capturing ideas, work items, and reminders. Notes are stored locally in your browser (localStorage), so they persist across page reloads without any backend.
 
